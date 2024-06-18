@@ -3,7 +3,6 @@ import os
 import requests
 from urllib.parse import urlparse
 
-# Suponiendo que tienes un archivo de texto con los mensajes de Telegram
 telegram_messages_file = 'wallE.txt'
 
 # Carpeta donde se guardarán los archivos ZIP descargados
@@ -20,7 +19,6 @@ with open(telegram_messages_file, 'r', encoding='utf-8') as file:
         if found_urls:
             urls.extend(found_urls)
 
-# Mostrar las URLs encontradas
 print("URLs encontradas en los mensajes de Telegram:")
 for url in urls:
     print(url)
