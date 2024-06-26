@@ -1,25 +1,8 @@
-Rodrigo Pro, [17/6/24 6:59 P.M.]
-Geo
-
-Rodrigo Pro, [17/6/24 6:59 P.M.]
-Dejo esto por aquí y me retiro lentamente:
-
-Jossué Arteche Muñoz
-Luis Alejandro Arteaga Morales
 
 https://github.com/Sekai02/GeoWall-E
 
-Rodrigo Pro, [17/6/24 6:59 P.M.]
-Víctor Manuel Vena Barrios 
-Ramón Hernández Camacho
-C111
-
 https://github.com/Vextroyer/Geo-Wall-E
 
-Rodrigo Pro, [17/6/24 6:59 P.M.]
-Eduardo Brito Labrada
-Dario Hernández Cubilla
-C111
 
 https://github.com/DHCub/Wall-E
 
@@ -148,3 +131,5 @@ Sheila Roque Alemán
 José Agustín del Toro González
 
 https://github.com/Starlight-03/GeoWallE
+
+https://github.com/Melforsy03/Geo--WallE

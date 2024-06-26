@@ -91,7 +91,7 @@ C122
 https://github.com/Ray-M05/gwent-harry-potter
 
 Rodrigo Pro, [17/6/24 6:50 P.M.]
-Alex Daniel Arbolaez C112                                                https://github.com/AlexdADev/Gwent-Pro-Unity
+Alex Daniel Arbolaez C112  https://github.com/AlexdADev/Gwent-Pro-Unity
 
 Rodrigo Pro, [17/6/24 6:50 P.M.]
 Anthony Cruz Garcia C-122 https://github.com/Anthonycg2003/my-gwynt-project
@@ -230,12 +230,12 @@ https://github.com/ManuEC04/Gwent-project
 Rodrigo Pro, [17/6/24 6:50 P.M.]
 Olivia Ortiz Arboláez 
 C122
-github.com/ViA8604/Gwent-Pro
+https://github.com/ViA8604/Gwent-Pro
 
 Rodrigo Pro, [17/6/24 6:50 P.M.]
 Marcos Cepero Paz
 C121
-github.com/Frosty-kun/gwont-pro
+https://github.com/Frosty-kun/gwont-pro
 
 Rodrigo Pro, [17/6/24 6:50 P.M.]
 Victor Manuel Castillo Tamayo 

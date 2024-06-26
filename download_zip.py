@@ -3,10 +3,10 @@ import os
 import requests
 from urllib.parse import urlparse
 
-telegram_messages_file = 'wallE.txt'
+telegram_messages_file = 'moogle.txt'
 
 # Carpeta donde se guardarán los archivos ZIP descargados
-download_folder = 'zips/wallE'
+download_folder = 'zips/moogle'
 
 # Lista para almacenar las URLs encontradas
 urls = []
@@ -56,8 +56,14 @@ for url in urls:
     
     # Construir el nombre del archivo ZIP basado en el nombre del repositorio
     parsed_url = urlparse(repo_url)
-    repo_name = os.path.basename(parsed_url.path).rstrip('.git')
-    zip_filename = f'{repo_name}.zip'
+    path_parts = parsed_url.path.strip('/').split('/')
+    if len(path_parts) >= 2:
+        user_name = path_parts[0]
+        repo_name = path_parts[1].rstrip('.git')
+        zip_filename = f'{user_name}_{repo_name}.zip'
+        download_path = os.path.join(download_folder, zip_filename)
+
+    
     download_path = os.path.join(download_folder, zip_filename)
 
     if os.path.exists(download_path):
